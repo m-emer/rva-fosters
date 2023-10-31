@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "CARRIE | "
+title: "SABINE | CARRIE"
 gender: girl
 img: carrie.jpg # Add image post (optional)
 date: 2017-07-03 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Halloween, Boy, Affectionate, Calm]
+tag: [Halloween, Girl, Affectionate, Energetic]
 ---
 
-Saw is sweet :)
+Sabine is the only girl of the litter, but she is just as rough and tumble as her brothers! She is super curious and adventerous and can never decide if she wants to be brave or a scaredy cat - she will puff up as big as she can and bounce back and forth.
+
+She's extremely social and loves attention. If you're looking for someone feisty and friendly, Sabine is the kitten for you.

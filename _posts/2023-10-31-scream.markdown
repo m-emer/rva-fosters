@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCREAM | "
+title: "BAYLAN | SCREAM"
 gender: boy
 img: scream-couch.jpg # Add image post (optional)
 date: 2017-07-03 12:55:00 +0300
@@ -8,4 +8,6 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Halloween, Boy, Affectionate, Calm]
 ---
 
-Saw is sweet :)
+You might notice that Baylan looks a little different - that's because he is adopted! His mom took him into her litter even though she already had 7 kittens of her own and they have fully accepted their brother despite his orange fur and strange "thumbs". 
+
+Baylan is obsessed with whoever is offering him their lap, and will stare up with a look of pure adoration. He never stops purring, never stops cuddling, and if you step out of the room he just waits for you to come back. Since he's the smallest, he is used to being pushed around by his brothers and is extremely easy-going.

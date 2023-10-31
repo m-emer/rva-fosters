@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "TEXAS | "
+title: "SKYWALKER | THE TEXAS CHAINSAW MASSACRE"
 gender: boy
 img: texasandscream.jpeg # Add image post (optional)
 date: 2017-07-03 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Halloween, Boy, Affectionate, Calm]
+tag: [Halloween, Boy, Independent, Calm]
 ---
 
-Saw is sweet :)
+Skywalker used to be the biggest kitten, but some stomach issues (on the path to recovery now!) caused him to lose a lot of weight since he had no appetite - he had to spend several nights in the SPCA's medical ward. :( Since his recovery, he's really blossomed as a sweet, even-tempered kitten who is getting his old spunk back.
+
+He is very protecctive of his smaller brothers and will step in if somebody is getting bullied (unless he's too busy sleeping - nothing wakes this guy up). He is very independent and happy doing his own thing - a great companion for somebody busier!

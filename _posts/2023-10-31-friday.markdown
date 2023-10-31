@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FRIDAY | "
+title: "ENOCH | FRIDAY"
 gender: boy
 img: friday.jpg # Add image post (optional)
 date: 2017-07-03 12:54:00 +0300
@@ -8,4 +8,6 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Halloween, Boy, Affectionate, Calm]
 ---
 
-Saw is sweet :)
+There's really no better way to describe Enoch than "happy-go-lucky". He is friendly, undisturbed by pretty much anything that comes his way, and loves to cuddle with his brothers and sister. 
+
+He is very curious and adventurous - he's the only kitten who is able to break out of their playpen. He was also the first one who was brave enough to fall asleep on a person - when he was just a tiny baby :')

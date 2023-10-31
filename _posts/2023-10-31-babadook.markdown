@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "BABADOOK | "
+title: "SYNDALLA | BABADOOK"
 gender: boy
 img: babadook.jpg # Add image post (optional)
 date: 2017-07-03 12:55:55 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Halloween, Boy, Affectionate, Calm]
+tag: [Halloween, Boy, Independent, Calm]
 ---
 
-Saw is sweet :)
+Syndalla is a quirky kitten - he's often lost in his own little world. He likes to crawl up your back and play with your hair. He's the perfect middle-of-the-road kitten - will cuddle if you pick him up, but totally chill being on his own. 
