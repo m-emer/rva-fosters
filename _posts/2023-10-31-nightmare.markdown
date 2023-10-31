@@ -11,4 +11,4 @@ tag: [Halloween, Boy, Independent, Energetic]
 
 Chopper is the mastermind kitten. If they're all trying something new, odds are he led the charge! He is also super playful, and the only thing he loves more than wrestling with his siblings is playing tug-of-war.
 
-He also might not look it because of his short fur, but he's by far the biggest and strongest (seriously, he is <b>dense</b>). This makes him pretty fearless - we've never seen him shy away from a loud sound or something new.
+He also might not look it because of his short fur, but he's by far the biggest and strongest (seriously, he is <b>dense</b>). This makes him pretty brave - we've never seen him shy away from a loud sound or something new.
