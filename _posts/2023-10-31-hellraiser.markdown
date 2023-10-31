@@ -9,4 +9,6 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Halloween, Boy, Affectionate, Energetic]
 ---
 
-Thrawn is often confused with his brother Skywalker at first glance, but there's no mixing up their personalities. He is a born explorer, loves to climb, and loves to run right up to strangers. He would be great for an extrovert with lots of friends over - there's nothing he can't handle!
+Thrawn is often confused with his brother Skywalker at first glance, but Thrawn has a truly one-of-a-kind personality. He is downright fearless and will run right up to a stranger for attention, and is even unafraid of dogs and other cat's he sees through the window.
+
+He would be great for an extrovert with lots of friends over - there's nothing he can't handle!
