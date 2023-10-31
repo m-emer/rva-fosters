@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "CHOPPER | NIGHTMARE ON ELM STREET"
+name: Chopper
 gender: boy
 img: nightmare.jpg # Add image post (optional)
 date: 2017-07-03 12:56:00 +0300

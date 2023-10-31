@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SYNDALLA | BABADOOK"
+name: Syndalla
 gender: boy
 img: babadook.jpg # Add image post (optional)
 date: 2017-07-03 12:55:55 +0300

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "HATI | SAW"
+name: Hati
 gender: boy
 img: saw-pumpkin.jpg # Add image post (optional)
 date: 2017-07-03 12:55:00 +0300

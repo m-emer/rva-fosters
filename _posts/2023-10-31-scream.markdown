@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "BAYLAN | SCREAM"
+name: Baylan
 gender: boy
 img: scream-couch.jpg # Add image post (optional)
 date: 2017-07-03 12:55:00 +0300

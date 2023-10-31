@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THRAWN | HELLRAISER"
+name: Thrawn
 gender: boy
 img: hellraiser.jpg # Add image post (optional)
 date: 2017-07-03 12:55:00 +0300
